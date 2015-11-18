@@ -1,4 +1,5 @@
 # 数据分析纲要
+[toc]
 ## 简介
 此类课程的主要内容将从理论与理论实现的两个方面来诠释数据分析的特性与行为，因此课程将主要包括的内容有：
 * 数据分析理论
@@ -32,3 +33,8 @@
 15. Python与SQLite及MongoDB操作
 16. SQLite与MongoDB的CMD操作
 17. Git与GitHub
+
+## Python部分
+1. 廖雪峰式教学基础与编程导论
+2. Python与数据分析及Numpy
+3. Python机器学习
